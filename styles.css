@@ -1,0 +1,65 @@
+body { min-height: 100vh; }
+
+
+#ordenarPor{
+    background-color: #0d6efd;
+}
+
+#wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.containerProductos{
+    align-items: center;
+    padding-left: 3.5%;
+    padding-right: 2.5%;
+}
+
+.ordenarPorDiv{
+    padding: 13px 8.5px 5px;
+}
+
+
+.formularioSuscripcion{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+
+.formSus{
+    display: block;
+    margin-top: 0em;
+}
+
+.h2Sus{
+    font-size: 30px;
+
+    text-align: center;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-bottom: 1%;
+}
+
+.tituloOfertas{
+    padding: 1% 1%;
+}
+
+
+@media (min-width: 992px){
+    .buscador{
+        width: 50%;
+        padding-left: 1%;
+    }
+}
+@media (max-width: 991px){
+    .buscador{
+        
+        padding-bottom: 1%;
+    }
+}

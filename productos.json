@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "producto": "zapatillas",
+        "modelo": "Adidas Grand Court",
+        "marca": "Adidas",
+        "precio": 45899,
+        "color": "Blancas",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4896bd57f0894845b5c0ae8300eec549_9366/Zapatillas_adidas_Grand_Court_Cloudfoam_Comfort_Blanco_GW9195_01_standard.jpg"
+    },
+    {
+        "id": 2,
+        "producto": "zapatillas",
+        "modelo": "Adidas Ozelia",
+        "marca": "Adidas",
+        "precio": 43799,
+        "color": "Verdes",
+        "sexo": "Hombre",
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/979928-1200-auto?v=638270552484870000&width=1200&height=auto&aspect=true"
+    },
+    {
+        "id": 3,
+        "producto": "zapatillas",
+        "modelo": "Nike Air Max",
+        "marca": "Nike",
+        "precio": 71999,
+        "color": "Negras",
+        "sexo": "Hombre",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/239508-800-800?v=638106812273700000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 4,
+        "producto": "zapatillas",
+        "modelo": "Nike Revolution 6",
+        "marca": "Nike",
+        "precio": 46999,
+        "color": "Azules",
+        "sexo": "Hombre",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/698826-800-800?v=638229600700030000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 5,
+        "producto": "zapatillas",
+        "modelo": "Reebok Glide",
+        "marca": "Reebok",
+        "precio": 50000,
+        "color": "Negras",
+        "sexo": "Hombre",
+        "imagen": "https://reebokarg.vtexassets.com/arquivos/ids/197121-800-800?v=638243905346700000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 6,
+        "producto": "zapatillas",
+        "modelo": "Topper Split",
+        "marca": "Topper",
+        "precio": 38499,
+        "color": "Verdes",
+        "sexo": "Hombre",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/296784-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 7,
+        "producto": "zapatillas",
+        "modelo": "Topper Hyde",
+        "marca": "Topper",
+        "precio": 27299,
+        "color": "Blancas",
+        "sexo": "Hombre",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/283078-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 8,
+        "producto": "zapatillas",
+        "modelo": "Nike Run 3",
+        "marca": "Nike",
+        "precio": 49299,
+        "color": "Rosas",
+        "sexo": "Mujer",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/698935-800-800?v=638229604867230000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 9,
+        "producto": "zapatillas",
+        "modelo": "Nike Air Max Bella",
+        "marca": "Nike",
+        "precio": 48399,
+        "color": "Negras",
+        "sexo": "Mujer",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/698942-800-800?v=638229605094600000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 10,
+        "producto": "zapatillas",
+        "modelo": "Reebok Classic",
+        "marca": "Reebok",
+        "precio": 36799,
+        "color": "Blancas",
+        "sexo": "Mujer",
+        "imagen": "https://reebokarg.vtexassets.com/arquivos/ids/184565-800-800?v=638213795382000000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 11,
+        "producto": "zapatillas",
+        "modelo": "Adidas Court Funk",
+        "marca": "Adidas",
+        "precio": 51799,
+        "color": "Blancas",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6b16236291be407f8d0baf3b0127054f_9366/Zapatillas_Court_Funk_Blanco_HP9460_01_standard.jpg"
+    },
+    {
+        "id": 12,
+        "producto": "zapatillas",
+        "modelo": "Adidas Duramo",
+        "marca": "Adidas",
+        "precio": 47999,
+        "color": "Celestes",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ef974bb0716a4eed8c40a964a082f029_9366/Zapatillas_Duramo_SL_Turquesa_IF7884_01_standard.jpg"
+    },
+    {
+        "id": 13,
+        "producto": "zapatillas",
+        "modelo": "Topper Duke",
+        "marca": "Topper",
+        "precio": 21300,
+        "color": "Negras",
+        "sexo": "Mujer",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/261334-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 14,
+        "producto": "Camisetas",
+        "modelo": "Camiseta titular River Plate 23/24",
+        "marca": "Adidas",
+        "precio": 34999,
+        "color": "Blanca/Roja",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/401778e50ef4449d9656d40e9346b8af_9366/Camiseta_Titular_River_Plate_23-24_Blanco_HT3679_01_laydown.jpg"
+    },
+    {
+        "id": 15,
+        "producto": "Camisetas",
+        "modelo": "Camiseta alternativa River Plate 23/24",
+        "marca": "Adidas",
+        "precio": 34999,
+        "color": "Roja",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/356d8076ce52440facb522ba34263bee_9366/Camiseta_Alternativa_River_Plate_23-24_Rojo_HT3688_01_laydown.jpg"
+    },
+    {
+        "id": 16,
+        "producto": "Camisetas",
+        "modelo": "Camiseta titular Argentina",
+        "marca": "Adidas",
+        "precio": 55999,
+        "color": "Blanca",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e71e00b27c824e2eab737a04afd5acaf_9366/Camiseta_Titular_Oficial_Argentina_3_estrellas_2022_Blanco_GC4397_01_laydown.jpg"
+    },
+    {
+        "id": 17,
+        "producto": "Camisetas",
+        "modelo": "Camiseta alternativa Argentina",
+        "marca": "Adidas",
+        "precio": 55999,
+        "color": "Violeta",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7d63fab843c8429c9006c07e3dd7f0ef_9366/Camiseta_Alternativa_Oficial_Argentina_3_estrellas_22_Violeta_GC4402_01_laydown.jpg"
+    },
+    {
+        "id": 18,
+        "producto": "Camisetas",
+        "modelo": "Camiseta calentamiento Argentina",
+        "marca": "Adidas",
+        "precio": 29999,
+        "color": "Azul",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/07916c1751be4e83ba723cb09a146ed3_9366/Camiseta_de_Calentamiento_Argentina_3_Estrellas_Azul_IU6210_01_laydown.jpg"
+    },
+    {
+        "id": 19,
+        "producto": "Camisetas",
+        "modelo": "Camiseta alternativa River Plate 23/24",
+        "marca": "Adidas",
+        "precio": 31999,
+        "color": "Blanca/Roja",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/48e894598c574973baf755f642b7851b_9366/Camiseta_Alternativa_River_Plate_23-24_Mujer_Rojo_HY3207_01_laydown.jpg"
+    },
+    {
+        "id": 20,
+        "producto": "Camisetas",
+        "modelo": "Camiseta tercer uniforme River Plate 23/24",
+        "marca": "Adidas",
+        "precio": 31499,
+        "color": "Negra",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/754036fc1f0c49329663afd4af898689_9366/Camiseta_Tercer_Uniforme_River_Plate_23-24_Mujer_Negro_HT9875_01_laydown.jpg"
+    },
+    {
+        "id": 21,
+        "producto": "Camisetas",
+        "modelo": "Camiseta alternativa selección femenina",
+        "marca": "Adidas",
+        "precio": 55999,
+        "color": "Azul",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5358fe78fc924a5c930aafc8015482a9_9366/Camiseta_de_Juego_Alternativa_Seleccion_Argentina_Femenina_23_Negro_HT4227_01_laydown.jpg"
+    },
+    {
+        "id": 22,
+        "producto": "Camisetas",
+        "modelo": "Camiseta Juventus",
+        "marca": "Adidas",
+        "precio": 33599,
+        "color": "Blanca",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cd1cd6cace0d47f98144abc8010cbe47_9366/Camiseta_Local_Juventus_20-21_UNISEX_Blanco_EI9894_01_laydown.jpg"
+    },
+    {
+        "id": 23,
+        "producto": "Botines",
+        "modelo": "Nike Zoom Mercurial 9",
+        "marca": "Nike",
+        "precio": 199999,
+        "color": "Gris",
+        "sexo": "Hombre",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/685850-800-800?v=638225195257130000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 24,
+        "producto": "Botines",
+        "modelo": "Nike Zoom Mercurial 15",
+        "marca": "Nike",
+        "precio": 104999,
+        "color": "Rosa",
+        "sexo": "Hombre",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/664065-800-800?v=638222616718500000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 25,
+        "producto": "Botines",
+        "modelo": "Nike Phantom",
+        "marca": "Nike",
+        "precio": 65999,
+        "color": "verde",
+        "sexo": "Hombre",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/663830-800-800?v=638222613439670000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 26,
+        "producto": "Botines",
+        "modelo": "Adidas Predator",
+        "marca": "Adidas",
+        "precio": 58999,
+        "color": "Naranja",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/53c9c3db775f40a086feafa30070e9bf_9366/Botines_Predator_Accuracy.3_Terreno_Firme_Naranja_GW4591_01_standard_hover.jpg"
+    },
+    {
+        "id": 27,
+        "producto": "Botines",
+        "modelo": "Adidas Predator Edge",
+        "marca": "Adidas",
+        "precio": 98999,
+        "color": "Azul",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa0a40fdf38846bbbce2ada600b4dda3_9366/Botines_Predator_Edge.1_Terreno_Blando_Azul_H02965_01_standard.jpg"
+    },
+    {
+        "id": 28,
+        "producto": "Botines",
+        "modelo": "Adidas Nemeziz 19",
+        "marca": "Adidas",
+        "precio": 119699,
+        "color": "Naranja",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/22fbb16c407f44558d19ae2f017b04bd_9366/Botines_Nemeziz_19_Terreno_Blando_Naranja_EH0565_01_standard.jpg"
+    },
+    {
+        "id": 29,
+        "producto": "Botines",
+        "modelo": "Topper Stingray II",
+        "marca": "Topper",
+        "precio": 39900,
+        "color": "Negro",
+        "sexo": "Hombre",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/283425-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 30,
+        "producto": "Botines",
+        "modelo": "Puma Breakthrough Future",
+        "marca": "Puma",
+        "precio": 155999,
+        "color": "Blanco",
+        "sexo": "Hombre",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/107351/01/sv03/fnd/ARG"
+    },
+    {
+        "id": 31,
+        "producto": "Botines",
+        "modelo": "Puma Future Ultimate",
+        "marca": "Puma",
+        "precio": 147999,
+        "color": "Azul",
+        "sexo": "Mujer",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/107166/01/sv03/fnd/ARG"
+    },
+    {
+        "id": 32,
+        "producto": "Botines",
+        "modelo": "Adidas Copa Pure II",
+        "marca": "Adidas",
+        "precio": 79999,
+        "color": "Blanco",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/82e3deddcdf141c5a073b5476e680123_9366/Botines_Copa_Pure_II.3_Terreno_Firme_Blanco_HQ8984_01_standard_hover.jpg"
+    },
+    {
+        "id": 33,
+        "producto": "Botines",
+        "modelo": "Adidas Copa Sense 3",
+        "marca": "Adidas",
+        "precio": 43599,
+        "color": "Negro",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/964b8d1c1de0421caacfae9b010579ea_9366/Botines_Copa_Sense.3_Terreno_Firme_Negro_GW3593_01_standard_hover.jpg"
+    },
+    {
+        "id": 34,
+        "producto": "Botines",
+        "modelo": "Adidas Gamemode",
+        "marca": "Adidas",
+        "precio": 43599,
+        "color": "Gris",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dcdc68a4679248489b3faeec00db49f5_9366/Botines_Gamemode_Terreno_Firme_Blanco_GV6848_01_standard_hover.jpg"
+    },
+    {
+        "id": 35,
+        "producto": "Botines",
+        "modelo": "Nike Tiempo Legend 9",
+        "marca": "Nike",
+        "precio": 56499,
+        "color": "Verde",
+        "sexo": "Mujer",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/663386-800-800?v=638222606993870000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 36,
+        "producto": "Botines",
+        "modelo": "Adidas SpeedPortal",
+        "marca": "Adidas",
+        "precio": 105999,
+        "color": "Celeste",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fcee64e1314c48c792d6af0a0016dd49_9366/Botines_X_Speedportal_Cesped_Natural_Seco_Azul_GW8408_01_standard.jpg"
+    },
+    {
+        "id": 37,
+        "producto": "Camisetas",
+        "modelo": "Camiseta Pre Partido Arenal",
+        "marca": "Adidas",
+        "precio": 30999,
+        "color": "Celeste/Azul",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8fd67794463e44638830aef5012113ba_9366/Camiseta_Prepartido_Arsenal_Azul_HT4451_01_laydown.jpg"
+    },
+    {
+        "id": 38,
+        "producto": "Camisetas",
+        "modelo": "Camiseta Pre Partido Real Madrid",
+        "marca": "Adidas",
+        "precio": 30999,
+        "color": "Negro/Verde",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c4521a6d04704d75ba6aaf8f0098f282_9366/Camiseta_Prepartido_Real_Madrid_Negro_HT8799_01_laydown.jpg"
+    },
+    {
+        "id": 39,
+        "producto": "Remeras",
+        "modelo": "Remera Messi Inter Miami",
+        "marca": "Adidas",
+        "precio": 24999,
+        "color": "Negro",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/304260080a4541048242318a2dc26d30_9366/Remera_Messi_Miami_Negra_Negro_IV1057_01_laydown.jpg"
+    },
+    {
+        "id": 40,
+        "producto": "Remeras",
+        "modelo": "Remera Techfit",
+        "marca": "Adidas",
+        "precio": 21999,
+        "color": "Negro",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a26f7a47489d4354a732aca7011adcff_9366/Remera_Techfit_Compresion_Manga_Corta_Negro_GU4906_01_laydown.jpg"
+    },
+    {
+        "id": 41,
+        "producto": "Remeras",
+        "modelo": "Remera Own The Run",
+        "marca": "Adidas",
+        "precio": 25999,
+        "color": "Negro",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a7589aa02b3041bf9431ada900b893bc_9366/Remera_Own_the_Run_Negro_H59274_01_laydown.jpg"
+    },
+    {
+        "id": 42,
+        "producto": "Remeras",
+        "modelo": "Remera Studio",
+        "marca": "Adidas",
+        "precio": 25999,
+        "color": "Rosa",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca9f1f519adf4266a011af5600ab06c6_9366/Remera_Studio_Rosa_IB8563_01_laydown.jpg"
+    },
+    {
+        "id": 43,
+        "producto": "Remeras",
+        "modelo": "Remera Run It",
+        "marca": "Adidas",
+        "precio": 21999,
+        "color": "Naranja",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7f118c3ca2e64480827caf5e00b79788_9366/Remera_Run_It_Naranja_HZ0109_01_laydown.jpg"
+    },
+    {
+        "id": 44,
+        "producto": "Remeras",
+        "modelo": "Remera Runing Parley",
+        "marca": "Adidas",
+        "precio": 31699,
+        "color": "Amarilla",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a7242f913544ea5abd9aeb901237059_9366/Musculosa_de_Running_Parley_Run_Fast_Amarillo_HK9020_01_laydown.jpg"
+    },
+    {
+        "id": 45,
+        "producto": "Remeras",
+        "modelo": "Remera Essentials Logo",
+        "marca": "Adidas",
+        "precio": 16499,
+        "color": "Negro",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2fe1f548584848ad9d5cac5a012f33cc_9366/Remera_LOUNGEWEAR_Essentials_Logo_Negro_GL0722_01_laydown.jpg"
+    },
+    {
+        "id": 46,
+        "producto": "Remeras",
+        "modelo": "Remera PrimeBlue Designed 2",
+        "marca": "Adidas",
+        "precio": 16499,
+        "color": "Azul",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e104bcef93b44478a2a6ae92004b0c87_9366/Musculosa_Primeblue_Designed_2_Move_3_Tiras_Sport_Azul_HN1040_01_laydown.jpg"
+    },
+    {
+        "id": 47,
+        "producto": "Remeras",
+        "modelo": "Remera Entrenamiento River Plate",
+        "marca": "Adidas",
+        "precio": 28999,
+        "color": "Gris",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2b5e60d638754f0a8381afd201797a1a_9366/Chomba_de_Entrenamiento_River_Plate_Condivo_22_Beige_HC1038_01_laydown.jpg"
+    },
+    {
+        "id": 48,
+        "producto": "Shorts",
+        "modelo": "Short Titular Selección Argentina",
+        "marca": "Adidas",
+        "precio": 19999,
+        "color": "Blanco",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5cf1f70f0c2843a5ac037c552aba8c14_9366/Shorts_Titular_Argentina_22_Blanco_GC4399_01_laydown.jpg"
+    },
+    {
+        "id": 49,
+        "producto": "Shorts",
+        "modelo": "Short Titular River Plate",
+        "marca": "Adidas",
+        "precio": 19999,
+        "color": "Negro",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b9acdf7adc3a47d784264d9cbc4c61b0_9366/Short_Uniforme_Titular_River_Plate_23-24_Negro_HT3680_01_laydown.jpg"
+    },
+    {
+        "id": 50,
+        "producto": "Shorts",
+        "modelo": "Short Running",
+        "marca": "Puma",
+        "precio": 21190,
+        "color": "Negro",
+        "sexo": "Hombre",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/521351/01/fnd/ARG"
+    },
+    {
+        "id": 51,
+        "producto": "Shorts",
+        "modelo": "Short Running",
+        "marca": "Puma",
+        "precio": 21190,
+        "color": "Negro",
+        "sexo": "Mujer",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/521072/01/fnd/ARG"
+    },
+    {
+        "id": 52,
+        "producto": "Shorts",
+        "modelo": "Short Ciclismo",
+        "marca": "Adidas",
+        "precio": 25799,
+        "color": "Negro",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c36aa26ea7284c30883cae7601508e73_9366/Shorts_de_Ciclismo_Pantera_Negra_Estampados_Negro_HN6583_01_laydown.jpg"
+    },
+    {
+        "id": 53,
+        "producto": "Shorts",
+        "modelo": "Short Run Velocity",
+        "marca": "Puma",
+        "precio": 19399,
+        "color": "Rosa",
+        "sexo": "Mujer",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/523386/24/fnd/ARG"
+    },
+    {
+        "id": 54,
+        "producto": "Shorts",
+        "modelo": "Short Sporty",
+        "marca": "Adidas",
+        "precio": 51999,
+        "color": "Celeste",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d29a9f9e0294a5992c5af5f00b29504_9366/Shorts_Sporty_and_Rich_Azul_IN5252_01_laydown.jpg"
+    },
+    {
+        "id": 55,
+        "producto": "Shorts",
+        "modelo": "Short Selección Femenina",
+        "marca": "Adidas",
+        "precio": 28999,
+        "color": "Negro",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/98869f38e1d44aaa8d4cafc801547bb0_9366/Short_de_juego_Alternativo_Seleccion_Argentina_Femenina_23_Negro_HT4229_01_laydown.jpg"
+    },
+    {
+        "id": 56,
+        "producto": "Shorts",
+        "modelo": "Short HyperGlam",
+        "marca": "Adidas",
+        "precio": 18799,
+        "color": "Marrón",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ebc4aa2031ef49dabc95ae8b01176177_9366/Shorts_Cortos_Hyperglam_Marron_HM8165_01_laydown.jpg"
+    }, 
+    {
+        "id": 57,
+        "producto": "Camperas",
+        "modelo": "Campera Argentina MyShelter",
+        "marca": "Adidas",
+        "precio": 124999,
+        "color": "Violeta",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bc005c9a2c645a6b797aed800a1df9e_9366/Campera_Argentina_MYSHELTER_Azul_HF3945_01_laydown.jpg"
+    },
+    {
+        "id": 58,
+        "producto": "Camperas",
+        "modelo": "Campera River Plate",
+        "marca": "Adidas",
+        "precio": 88999,
+        "color": "Gris",
+        "sexo": "Hombre",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bc1b61c7dd5494cbf690d021852675f_9366/Campera_de_Invierno_River_Plate_Condivo_22_Beige_HC1036_01_laydown.jpg"
+    },
+    {
+        "id": 59,
+        "producto": "Camperas",
+        "modelo": "Campera Traning",
+        "marca": "Topper",
+        "precio": 27169,
+        "color": "Gris",
+        "sexo": "Hombre",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/301800-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 60,
+        "producto": "Camperas",
+        "modelo": "Campera Runing",
+        "marca": "Puma",
+        "precio": 31299,
+        "color": "Negra",
+        "sexo": "Mujer",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/520185/01/fnd/ARG"
+    },
+    {
+        "id": 61,
+        "producto": "Camperas",
+        "modelo": "Campera Deportiva",
+        "marca": "Adidas",
+        "precio": 42299,
+        "color": "Verde",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f02a4f010c4b4c51a29dae2700dba9c0_9366/Campera_Deportiva_Tiro_Azul_H59997_01_laydown.jpg"
+    },
+    {
+        "id": 62,
+        "producto": "Camperas",
+        "modelo": "Campera Entrenamiento",
+        "marca": "Adidas",
+        "precio": 33499,
+        "color": "Blanca",
+        "sexo": "Mujer",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1003dfaad6ca48f5ab63aef400ab8480_9366/Campera_de_Entrenamiento_Tiro_23_League_Blanco_HS3513_01_laydown.jpg"
+    },
+    {
+        "id": 63,
+        "producto": "zapatillas",
+        "modelo": "Topper Squad Kids",
+        "marca": "Topper",
+        "precio": 28520,
+        "color": "Negro",
+        "sexo": "Niños",
+        "imagen": "https://topperio.vtexassets.com/arquivos/ids/272577-500-auto?v=637921209558800000&width=500&height=auto&aspect=true"
+    },
+    {
+        "id": 64,
+        "producto": "zapatillas",
+        "modelo": "Reebok Royal",
+        "marca": "Reebok",
+        "precio": 30999,
+        "color": "Negro",
+        "sexo": "Niños",
+        "imagen": "https://reebokarg.vtexassets.com/arquivos/ids/202638-800-800?v=638319108093270000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 65,
+        "producto": "zapatillas",
+        "modelo": "Reebok Club Kids",
+        "marca": "Reebok",
+        "precio": 41673,
+        "color": "Naranja",
+        "sexo": "Niños",
+        "imagen": "https://reebokarg.vtexassets.com/arquivos/ids/159946-800-800?v=638270716329800000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 66,
+        "producto": "zapatillas",
+        "modelo": "Reebok Royal Prime 2",
+        "marca": "Reebok",
+        "precio": 22380,
+        "color": "Blanco",
+        "sexo": "Niños",
+        "imagen": "https://reebokarg.vtexassets.com/arquivos/ids/165573-800-800?v=638213790905500000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 67,
+        "producto": "Botines",
+        "modelo": "Topper San Ciro V Kids",
+        "marca": "Topper",
+        "precio": 23600,
+        "color": "Blanco",
+        "sexo": "Niños",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/278677-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 68,
+        "producto": "zapatillas",
+        "modelo": "Puma Suede Classic Niños",
+        "marca": "Puma",
+        "precio": 47999,
+        "color": "Rosa",
+        "sexo": "Niños",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/394151/02/sv03/fnd/ARG"
+    },
+    {
+        "id": 69,
+        "producto": "Botines",
+        "modelo": "Puma Ultra Play Niños",
+        "marca": "Puma",
+        "precio": 19899,
+        "color": "Verde",
+        "sexo": "Niños",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/107141/01/sv03/fnd/ARG"
+    },
+    {
+        "id": 70,
+        "producto": "Botines",
+        "modelo": "Nike Jr Tiempo Legend",
+        "marca": "Nike",
+        "precio": 43499,
+        "color": "Verde",
+        "sexo": "Niños",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/663443-800-800?v=638222607818500000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 71,
+        "producto": "Botines",
+        "modelo": "Nike Jr Mercurial SuperFly",
+        "marca": "Nike",
+        "precio": 43499,
+        "color": "Rojo",
+        "sexo": "Niños",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/691187-800-800?v=638225278511430000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 72,
+        "producto": "Camisetas",
+        "modelo": "Camiseta titular River Plate 23/24 Niños",
+        "marca": "Adidas",
+        "precio": 34999,
+        "color": "Blanca",
+        "sexo": "Niños",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d45d12baff084d8d9741beba7a56e382_9366/Camiseta_Titular_River_Plate_23-24_Nino_Blanco_HY3213_01_laydown.jpg"
+    },
+    {
+        "id": 73,
+        "producto": "Camisetas",
+        "modelo": "Camiseta alternativa River Plate 23/24 Niños",
+        "marca": "Adidas",
+        "precio": 34999,
+        "color": "Roja",
+        "sexo": "Niños",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8e093176b5d443068f8bc82ee91d0298_9366/Camiseta_Alternativa_River_Plate_23-24_Nino_Rojo_HY3206_01_laydown.jpg"
+    },
+    {
+        "id": 74,
+        "producto": "Camisetas",
+        "modelo": "Camiseta tercer uniforme River Plate 23/24 Niños",
+        "marca": "Adidas",
+        "precio": 34999,
+        "color": "Negra",
+        "sexo": "Niños",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2e5694c396c74bcfa0104e7476fd19ba_9366/Camiseta_Tercer_Uniforme_River_Plate_23-24_Ninos_Negro_HT9873_01_laydown.jpg"
+    },
+    {
+        "id": 75,
+        "producto": "Camisetas",
+        "modelo": "Camiseta Entrenamiento Argentina Niños",
+        "marca": "Adidas",
+        "precio": 25899,
+        "color": "Celeste",
+        "sexo": "Niños",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d4f890d37824fd784b0ae9000e5ad44_9366/Camiseta_de_entrenamiento_Argentina_Tiro_23_Azul_HF3929_01_laydown.jpg"
+    },
+    {
+        "id": 76,
+        "producto": "Remeras",
+        "modelo": "Remera Essentials Logo Niños",
+        "marca": "Adidas",
+        "precio": 12399,
+        "color": "Negro",
+        "sexo": "Niños",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1e0a91f121fd44a59555af0300b0bb3c_9366/Remera_Essentials_Logo_Grande_Algodon_Negro_IC6122_01_laydown.jpg"
+    },
+    {
+        "id": 77,
+        "producto": "Remeras",
+        "modelo": "Remera Animal Print Niños",
+        "marca": "Adidas",
+        "precio": 25999,
+        "color": "Verde",
+        "sexo": "Niños",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/59b718094a7c4b90baeaaf0000a3788d_9366/Remera_Corta_Animal_Print_Verde_IB8582_01_laydown.jpg"
+    },
+    {
+        "id": 78,
+        "producto": "Remeras",
+        "modelo": "Remera Lego Niños",
+        "marca": "Adidas",
+        "precio": 26999,
+        "color": "Rosa",
+        "sexo": "Niños",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bb614021d8e94c10831fae770120cf15_9366/Remera_adidas_x_LEGOr_Tech_Pack_Violeta_HM2222_01_laydown.jpg"
+    },
+    {
+        "id": 79,
+        "producto": "Shorts",
+        "modelo": "Bermuda Urbana Niños",
+        "marca": "Topper",
+        "precio": 13199,
+        "color": "Negro",
+        "sexo": "Niños",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/291037-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 80,
+        "producto": "Shorts",
+        "modelo": "Short Kylian Mbappé Niños",
+        "marca": "Nike",
+        "precio": 21799,
+        "color": "Negro",
+        "sexo": "Niños",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/211341-800-800?v=638098219314500000&width=800&height=800&aspect=true"
+    },
+    {
+        "id": 81,
+        "producto": "Camperas",
+        "modelo": "Campera Essentials Niños",
+        "marca": "Puma",
+        "precio": 25399,
+        "color": "Rosa",
+        "sexo": "Niños",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/670559/47/fnd/ARG"
+    },
+    {
+        "id": 82,
+        "producto": "Camperas",
+        "modelo": "Campera Poly Fleece Niños",
+        "marca": "Topper",
+        "precio": 25999,
+        "color": "Negra",
+        "sexo": "Niños",
+        "imagen": "https://topperarg.vtexassets.com/arquivos/ids/301430-800-800?width=800&height=800&aspect=true"
+    },
+    {
+        "id": 83,
+        "producto": "Camperas",
+        "modelo": "Campera Urbana",
+        "marca": "Topper",
+        "precio": 32799,
+        "color": "Negra",
+        "sexo": "Niños",
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw654face4/products/TO165690/TO165690-1.JPG"
+    },
+    {
+        "id": 84,
+        "producto": "Shorts",
+        "modelo": "Short Jordan Air",
+        "marca": "Nike",
+        "precio": 27409,
+        "color": "Negra",
+        "sexo": "Niños",
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/989351-800-auto?v=638270566167830000&width=800&height=auto&aspect=true"
+    }
+]
